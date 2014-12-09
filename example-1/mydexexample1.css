@@ -1,0 +1,19 @@
+.starter-template {
+	padding-top: 60px
+}
+
+.regular-template {
+	padding-top: 10px
+}
+
+.table-title {
+	text-align: center;
+}
+
+.table-column-title {
+	width: 50%;
+}
+
+.hidden-on-load {
+	display: none;
+}
